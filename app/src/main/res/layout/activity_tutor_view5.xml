@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView4"
+    android:layout_centerHorizontal="true"
+    android:layout_alignParentTop="true"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="my.com.tutionathome.calvinlau.tuitionathome.TutorView5">
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/thumbnailforTView3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/txtPHN"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/thumbnailforTView3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="false"
+        android:textSize="18dp"
+        android:layout_weight="5"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/txtADD"
+        android:layout_below="@+id/txtPHN"
+        android:layout_alignLeft="@+id/txtPHN"
+        android:layout_alignStart="@+id/txtPHN"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="false"
+        android:layout_weight="5"
+        android:textSize="14dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/txtD"
+        android:layout_below="@+id/txtADD"
+        android:layout_toRightOf="@+id/thumbnailforTView3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="false"
+        android:layout_weight="5"
+        android:textSize="14dp" />
+
+    <Space
+        android:layout_width="20px"
+        android:layout_height="200px"
+        android:layout_below="@+id/thumbnailforTView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:layout_alignRight="@+id/txtD"
+        android:layout_alignEnd="@+id/txtD"
+        android:id="@+id/space6" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/textViewdata5"
+        android:layout_below="@+id/space6"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:layout_alignRight="@+id/space6"
+        android:layout_alignEnd="@+id/space6"
+        android:textSize="18dp"
+        android:layout_weight="5"/>
+
+
+</RelativeLayout>
+</ScrollView>

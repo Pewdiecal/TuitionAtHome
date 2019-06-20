@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="my.com.tutionathome.calvinlau.tuitionathome.tutorView">
+    <item
+        android:id="@+id/action_call"
+        android:orderInCategory="100"
+        android:title="Call tutor"
+        android:icon="@drawable/ic_call_black_24dp"
+        app:showAsAction="always" />
+</menu>

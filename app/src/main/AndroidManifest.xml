@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="my.com.tutionathome.calvinlau.tuitionathome">
+
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+   <uses-permission android:name="android.support.multidex.MultiDexApplication"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+
+    <application
+        android:name="my.com.tutionathome.calvinlau.tuitionathome.AppController"
+        android:allowBackup="false"
+        android:icon="@mipmap/homeiconbig"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+
+        >
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCyfDRHrgXXGZT2SAgDsauG-qetNC9hOfU" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ParStuActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".pslistview" />
+        <activity android:name=".CustomList" />
+        <activity android:name=".customList" />
+        <activity android:name=".TutorView" />
+        <activity android:name=".TutorView2" />
+        <activity android:name=".TutorView3" />
+        <activity android:name=".TutorView4" />
+        <activity android:name=".TutorView5" />
+        <activity android:name=".TutorLogin" />
+        <activity android:name=".TutorSignUp" />
+        <activity
+            android:name=".AboutTutor"
+            android:label="@string/title_activity_about_tutor"
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".TutorMapLocation"
+            android:label="@string/title_activity_tutor_map_location"
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".EducationAndExperience"
+            android:label="@string/title_activity_education_and_experience"
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".RateAndAvailability"
+            android:label="@string/title_activity_rate_and_availability"
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".MyWebpage"
+            android:label="@string/title_activity_my_webpage"
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".TutorHomeScreen"
+            android:screenOrientation="portrait"
+            />
+
+        <activity android:name=".MenuCustomList"></activity>
+
+    </application>
+
+</manifest>
