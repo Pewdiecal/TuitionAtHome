@@ -13,9 +13,17 @@ For tutors who wish to list their service at TuitionAtHome.my, kindly use the br
 
 <h3 align="center"> Sample Screenshot of the App : </h3>
 
-<img src="https://lh3.googleusercontent.com/5J3OlO8dccQSPA7oDrbu6gge8jnUjNgOwokdQi8LC5uHiXpxfjfWcZqBuFiIjaXR8U4">
-<img src="https://lh3.googleusercontent.com/GozTLr2ZY1ZCJtzptHiEXEN2LpcMaPaq-RUV_6XESnHB4KcCVo3BHczAQbETTQz3ChU">
-<img src="https://lh3.googleusercontent.com/WEJvDJV81ko-jXeD-EdVcK6FZp_jiQpCbJHrQsBtNwm6SmXA5j4BMnSVsUEGyM0UXcM">
-<img src="https://lh3.googleusercontent.com/lKR3qr1lMbCt3bX-h4ICU935m4RmmZl9GzOs3dz9mBsG-LPvq3c07bkyrN3N9So6Fg">
-<img src="https://lh3.googleusercontent.com/bVYJrLaESIk4rhiQQ3bYPAKKyyzVErv-auuFdrNz2M19_m_YkJTh_hitzS1Oumt3pqw">
-<img src="https://lh3.googleusercontent.com/nFlWqn3Ox8KFXvkCuxR-UsY8LRd2gp7hcyhpxB_UBELXf-M3822b2H6pD5Q2J13uGsYo">
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/5J3OlO8dccQSPA7oDrbu6gge8jnUjNgOwokdQi8LC5uHiXpxfjfWcZqBuFiIjaXR8U4">
+  <img src="https://lh3.googleusercontent.com/GozTLr2ZY1ZCJtzptHiEXEN2LpcMaPaq-RUV_6XESnHB4KcCVo3BHczAQbETTQz3ChU">
+</p>
+
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/WEJvDJV81ko-jXeD-EdVcK6FZp_jiQpCbJHrQsBtNwm6SmXA5j4BMnSVsUEGyM0UXcM">
+  <img src="https://lh3.googleusercontent.com/lKR3qr1lMbCt3bX-h4ICU935m4RmmZl9GzOs3dz9mBsG-LPvq3c07bkyrN3N9So6Fg">
+</p>
+
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/bVYJrLaESIk4rhiQQ3bYPAKKyyzVErv-auuFdrNz2M19_m_YkJTh_hitzS1Oumt3pqw">
+  <img src="https://lh3.googleusercontent.com/nFlWqn3Ox8KFXvkCuxR-UsY8LRd2gp7hcyhpxB_UBELXf-M3822b2H6pD5Q2J13uGsYo">
+</p>
