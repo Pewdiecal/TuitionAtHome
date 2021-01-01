@@ -11,7 +11,7 @@ We are not tuition agents who act as intermediary between parent and tutor. In f
 
 For tutors who wish to list their service at TuitionAtHome.my, kindly use the browser for now. The mobile app for tutors is currently under development and we hope to launch it as soon as it is completed.
 
-<h3 align="center";>Screenshot samples of the app : </h3>
+<h3 align="center">Screenshot samples of the app : </h3>
 
 <img align="left" src="https://lh3.googleusercontent.com/5J3OlO8dccQSPA7oDrbu6gge8jnUjNgOwokdQi8LC5uHiXpxfjfWcZqBuFiIjaXR8U4">
 <img align="left" src="https://lh3.googleusercontent.com/GozTLr2ZY1ZCJtzptHiEXEN2LpcMaPaq-RUV_6XESnHB4KcCVo3BHczAQbETTQz3ChU">
