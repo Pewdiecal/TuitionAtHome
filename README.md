@@ -2,7 +2,7 @@
 ### TuitionAtHome.my for Parents
 
 <p align="center">
-  <img height="300" src="https://lh3.googleusercontent.com/WgMS3_RnvRuJeS13BYlzMY6Tl971GnUwYyJXVM0TWlDz02MbN8Wp0mp31Re3RjZTIw">
+  <img height="30%" src="https://lh3.googleusercontent.com/WgMS3_RnvRuJeS13BYlzMY6Tl971GnUwYyJXVM0TWlDz02MbN8Wp0mp31Re3RjZTIw">
 </p>
 
 TuitionAtHome.my is a Malaysian home tuition listing service. Parents/students use the TuitionAtHome app to find tutors nearby them. This service is free of charge. Tutors' contact numbers are displayed, therefore the parent/student can directly call the tutor. 
